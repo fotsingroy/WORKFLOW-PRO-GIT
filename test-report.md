@@ -1,0 +1,6 @@
+Resume des modification et ajouts
+Ajout de la branche  feature 
+creation du fichier app.md dans la branche feature
+Ajout du text"Bienvenue dans mon application version 1.0"
+Ajout de la branche fix 
+creation du fichier bugfix.txt
